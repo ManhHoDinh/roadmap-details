@@ -1,0 +1,90 @@
+#+TITLE: Road Map Details
+#+Author: Dang Quang Vu
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* Technical Positioning
+** Front-End
+- https://fullstack.edu.vn
+  + HTML, CSS, BOOTSTRAP
+  + =Javascript=
+  + React
+- React Native
+  # ---- #
+- Web3
+- Connect Wallet
+  + [[https://web3js.readthedocs.io/en/v1.5.2/][web3.js]]
+  + [[https://github.com/NoahZinsmeister/web3-react][web3-react]]
+  + [[http://trufflesuite.com/drizzle/][Drizzle]]
+  # ---- #
+- TypeScript == Rust
+- Next.Js
+  + [[https://www.youtube.com/c/EasyFrontend][Easy FrontEnd]]
+
+** SmartContract
+*** Ethereum Blockchain
++ [[https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA][Solidity]]
++ FE
++ Vyper
++ Rust
++ [[https://eips.ethereum.org/all][Token Standard]]
+  - ERC20 - FT
+  - ERC721 - NFT
+  - ERC777
+  - ERC1155 - Multi
++ Technical
+  - =Security Challenges=
+  - =Testing SmartContract=
+  - Design Custom Token
+  - Optimize Smart Contract
++ =Truffle=
++ Hardhat
++ Remix
++ [[https://openzeppelin.com/][Openzeppelin]]
++ [[https://github.com/ConsenSys/mythril][Security Tools (Mithril)]]
+*** New Generation Blockchain
+- Rust Languages
+  + Substrate
+  + Near Contract
+  + Solana
+  + ICP
+  + Filecoin
+  + FLUX
+  + =DIEM=
+- =AssemblyScript=
+- =WebAssembly=
+
+** Blockchain DevOps
+- How to Deploy Smart Contract
+- Deploy Dapp & Connect it with SmartContract
+- Handle privates key securely
+- Hyper Ledger
+- Privates Blockchain
+
+** Fullstack Blockchain Dev
+
+
+PoH
+
+* Bussiness Domain Positioning
+** Games & Gambling
+- Faster
+- Lower Gas fee
+** DeFi
+- Defi Protocols
+- Wrapped Ether - WETH
+- Oracles
+- Stable Coin
+- Liquidity Mining
+- Staking
+- FlashLoan
+- DAO
+- DAI
+- UniSwap - Pancakeswap - ShushiSwap
+- Compound
+** Enterprise Blockchain
+- Permissioning & Privacy on Blockchain
+- Hyper Ledge
+
+* Special Skills You Need!
+- Reading & Learning Documents
+- Javascript -> Typescript -> Rust
